@@ -1,0 +1,20 @@
+[0.360s] Invoking command in '/home/rolka/ros2_ws/src/build/my_robot_controller': PYTHONPATH=/home/rolka/ros2_ws/src/build/my_robot_controller/prefix_override:/home/rolka/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rolka/ros2_ws/src/build/my_robot_controller/build --no-deps symlink_data
+[0.480s] running develop
+[0.559s] running egg_info
+[0.559s] writing my_robot_controller.egg-info/PKG-INFO
+[0.559s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.560s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.560s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.560s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.561s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.562s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.563s] running build_ext
+[0.563s] Creating /home/rolka/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages/my-robot-controller.egg-link (link to .)
+[0.564s] Installing draw_circle script to /home/rolka/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.564s] Installing pose_subscriber script to /home/rolka/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.564s] Installing test_node script to /home/rolka/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.564s] Installing turtle_controller script to /home/rolka/ros2_ws/src/install/my_robot_controller/lib/my_robot_controller
+[0.564s] 
+[0.564s] Installed /home/rolka/ros2_ws/src/build/my_robot_controller
+[0.564s] running symlink_data
+[0.583s] Invoked command in '/home/rolka/ros2_ws/src/build/my_robot_controller' returned '0': PYTHONPATH=/home/rolka/ros2_ws/src/build/my_robot_controller/prefix_override:/home/rolka/ros2_ws/src/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/rolka/ros2_ws/src/build/my_robot_controller/build --no-deps symlink_data
